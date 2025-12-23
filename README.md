@@ -45,7 +45,7 @@ Deploy model using AWS / GCP Cloud for scalable use.
 👩‍💻 Developed By
 
 Uvagai
-🎓 Master’s in Data Science | Machine Learning & Computer Vision Enthusiast
+🎓 Data Scientist | Machine Learning & Computer Vision Enthusiast
 📍 Chennai, India
 
 Precision (Defective)	0.94
